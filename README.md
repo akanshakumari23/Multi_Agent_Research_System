@@ -9,8 +9,6 @@
 
 🌐 **Live Demo:** https://researchmind-fjhr.onrender.com
 
-🎥 **Demo Video:** Add Your YouTube Video Link Here
-
 ⭐ An intelligent multi-agent research platform that automates web research, information extraction, report generation, and quality review using collaborative AI agents.
 
 ---
