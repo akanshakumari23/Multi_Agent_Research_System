@@ -7,7 +7,9 @@
 [![LangChain](https://img.shields.io/badge/LangChain-Agent-green?style=for-the-badge)]()
 [![Mistral AI](https://img.shields.io/badge/Mistral-AI-purple?style=for-the-badge)]()
 
+
 🌐 **Live Demo:** https://researchmind-fjhr.onrender.com
+
 
 ⭐ An intelligent multi-agent research platform that automates web research, information extraction, report generation, and quality review using collaborative AI agents.
 
